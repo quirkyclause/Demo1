@@ -1,0 +1,198 @@
+{
+  "tenses": [
+    {
+      "name": "Present Simple",
+      "time": "Present",
+      "use": "Habits, routines, facts, general truths",
+      "form": "Subject + base verb (+s/es for he/she/it)",
+      "examples": [
+        "I work from home.",
+        "She drinks coffee every morning.",
+        "The sun rises in the east."
+      ],
+      "signal_words": [
+        "always",
+        "usually",
+        "sometimes",
+        "never",
+        "every day"
+      ]
+    },
+    {
+      "name": "Present Continuous",
+      "time": "Present",
+      "use": "Actions happening now or temporary actions",
+      "form": "am/is/are + verb-ing",
+      "examples": [
+        "I am studying for my exam.",
+        "They are watching a movie.",
+        "She is staying with a friend this week."
+      ],
+      "signal_words": [
+        "now",
+        "right now",
+        "at the moment",
+        "currently"
+      ]
+    },
+    {
+      "name": "Present Perfect",
+      "time": "Present",
+      "use": "Past actions connected to now, life experiences",
+      "form": "have/has + past participle",
+      "examples": [
+        "I have visited Paris.",
+        "She has lost her keys.",
+        "We have known each other for years."
+      ],
+      "signal_words": [
+        "ever",
+        "never",
+        "just",
+        "already",
+        "yet",
+        "since",
+        "for"
+      ]
+    },
+    {
+      "name": "Present Perfect Continuous",
+      "time": "Present",
+      "use": "Actions started in the past and still continuing or just stopped",
+      "form": "have/has been + verb-ing",
+      "examples": [
+        "I have been reading for two hours.",
+        "He has been working all day.",
+        "We have been waiting since 3 PM."
+      ],
+      "signal_words": [
+        "for",
+        "since",
+        "all day",
+        "how long"
+      ]
+    },
+    {
+      "name": "Past Simple",
+      "time": "Past",
+      "use": "Finished actions in the past at a specific time",
+      "form": "Verb + ed (or irregular 2nd form)",
+      "examples": [
+        "I visited Rome last summer.",
+        "She bought a new phone yesterday.",
+        "We watched that movie last night."
+      ],
+      "signal_words": [
+        "yesterday",
+        "last week",
+        "in 2010",
+        "ago",
+        "when"
+      ]
+    },
+    {
+      "name": "Past Continuous",
+      "time": "Past",
+      "use": "Past actions in progress or interrupted",
+      "form": "was/were + verb-ing",
+      "examples": [
+        "I was watching TV when she called.",
+        "They were studying all evening.",
+        "It was raining at 7 PM."
+      ],
+      "signal_words": [
+        "while",
+        "when",
+        "as"
+      ]
+    },
+    {
+      "name": "Past Perfect",
+      "time": "Past",
+      "use": "Actions that happened before another past action",
+      "form": "had + past participle",
+      "examples": [
+        "I had finished dinner before he arrived.",
+        "She had already left when I called.",
+        "They had studied English before moving to London."
+      ],
+      "signal_words": [
+        "before",
+        "after",
+        "already",
+        "just",
+        "by the time"
+      ]
+    },
+    {
+      "name": "Past Perfect Continuous",
+      "time": "Past",
+      "use": "Long actions before another past event",
+      "form": "had been + verb-ing",
+      "examples": [
+        "I had been working all day before I rested.",
+        "They had been driving for hours when they stopped.",
+        "She had been crying, so her eyes were red."
+      ],
+      "signal_words": [
+        "for",
+        "since",
+        "before"
+      ]
+    },
+    {
+      "name": "Future Simple",
+      "time": "Future",
+      "use": "Predictions, promises, quick decisions",
+      "form": "will + base verb",
+      "examples": [
+        "I will help you with that.",
+        "She will probably come later.",
+        "It will be fine."
+      ],
+      "signal_words": [
+        "tomorrow",
+        "next week",
+        "in 2030",
+        "soon",
+        "probably"
+      ]
+    },
+    {
+      "name": "Be Going To",
+      "time": "Future",
+      "use": "Plans, intentions, predictions based on now",
+      "form": "am/is/are + going to + base verb",
+      "examples": [
+        "I am going to travel to Spain.",
+        "It is going to rain.",
+        "We are going to study together."
+      ],
+      "signal_words": []
+    },
+    {
+      "name": "Future Continuous",
+      "time": "Future",
+      "use": "Actions in progress at a specific future time",
+      "form": "will be + verb-ing",
+      "examples": [
+        "I will be flying to Canada tomorrow.",
+        "She will be working late tonight.",
+        "They will be sleeping at midnight."
+      ],
+      "signal_words": []
+    },
+    {
+      "name": "Future Perfect",
+      "time": "Future",
+      "use": "Actions finished before a certain future time",
+      "form": "will have + past participle",
+      "examples": [
+        "I will have graduated by next year.",
+        "She will have finished the book by Friday.",
+        "They will have arrived before noon."
+      ],
+      "signal_words": []
+    }
+  ]
+}
