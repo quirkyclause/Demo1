@@ -19,15 +19,14 @@ The main goals of this repository are:
 
 📁 linguistics-repo/
 │
-├── grammar/ # Notes on grammar rules, sentence structures, and usage
-├── vocabulary/ # Word lists, thematic vocab, idioms, and phrasal verbs
-├── pronunciation/ # Phonetic notes, IPA practice, accent training
-├── writing/ # Writing exercises, style guides, and editing notes
-├── reading/ # Reading logs, comprehension practice, summaries
-├── speaking/ # Spoken practice logs, dialogue scripts, reflections
-├── resources/ # External tools, articles, videos, and references
-└── README.md # Project overview (you are here)
-
+├── grammar/              # Notes on grammar rules, sentence structures, and usage
+├── vocabulary/           # Word lists, thematic vocab, idioms, and phrasal verbs
+├── pronunciation/        # Phonetic notes, IPA practice, accent training
+├── writing/              # Writing exercises, style guides, and editing notes
+├── reading/              # Reading logs, comprehension practice, summaries
+├── speaking/             # Spoken practice logs, dialogue scripts, reflections
+├── resources/            # External tools, articles, videos, and references
+└── README.md             # Project overview (you are here)
 
 ---
 
